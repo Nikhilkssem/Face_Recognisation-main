@@ -1,2 +1,2 @@
-# Face_Recognisation-main
-Face_Recognisation-main is a real-time face recognition system built with Python, OpenCV, MTCNN, and FaceNet (InceptionResnetV1).
+# Face_Recognisation
+by saving people images in the code it recognises them and shows there names as output
